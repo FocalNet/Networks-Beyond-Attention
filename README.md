@@ -1,5 +1,12 @@
 # Networks-Beyond-Attention
-A compilation of **MODERN** network architectures for vision and others without usage of self-attention mechanism.
+
+A list of **modern** (convolutional) network architectures for vision. Note that we only list the works based on convolution and other variants that emerge most recently. Please refer to [other more comprehensive lists](#related-awesome-paper-lists) about networks using attention or MLP-style designs.
+
+## Overview
+
+- [Image Classification](#image-classification)
+- [Image Segmentation](#image-segmentation)
+- [Others](#others)
 
 ## Papers
 
@@ -117,7 +124,7 @@ Release date: <b>18 Sep 2022</b>.
 <a href='https://arxiv.org/abs/2209.08575v1'>[paper]</a> <a href='https://github.com/Visual-Attention-Network/SegNeXt'>[code]</a>
 </p>
 
-### Image Dehazing
+### Others
 
 <p>
 <font size=3><b>LKD-Net: Large Kernel Convolution Network for Single Image Dehazing. arXiv 2022.</b></font>
@@ -129,9 +136,6 @@ Release date: <b>5 Sep 2022</b>.
 <a href='https://arxiv.org/abs/2209.01788'>[paper]</a> <a href='https://github.com/SWU-CS-MediaLab/LKD-Net'>[code]</a>
 </p>
 
-
-### 3D Vision
-
 <p>
 <font size=3><b>Scaling up Kernels in 3D CNNs. arXiv 2022.</b></font>
 <br>
@@ -141,3 +145,16 @@ Release date: <b>21 June 2022</b>.
 <br> 
 <a href='https://arxiv.org/abs/2206.10555'>[paper]</a> <a href='https://github.com/dvlab-research/LargeKernel3D'>[code]</a>
 </p>
+
+
+## Related Awesome Paper Lists
+
+> **Awesome Visual-Transformer**: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer).
+
+> **Ultimate-Awesome-Transformer-Attention**: [Ultimate-Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention#other-attention-free).
+
+> **Transformer-in-Vision**: [Transformer-in-Vision](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision).
+
+## Acknowledgement
+
+The list format follows [awesome-detection-transformer](https://github.com/IDEA-Research/awesome-detection-transformer).
