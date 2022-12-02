@@ -1,5 +1,5 @@
 # Networks-Beyond-Attention
-A compilation of **MODERN** network architectures for vision and others without usage of self-attention mechanism
+A compilation of **MODERN** network architectures for vision and others without usage of self-attention mechanism.
 
 ## Papers
 
