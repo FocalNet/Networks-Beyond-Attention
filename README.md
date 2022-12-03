@@ -1,6 +1,6 @@
 # Networks-Beyond-Attention
 
-A list of **modern** (convolutional) network architectures for vision. Note that we only list the works based on convolution and other variants that emerge most recently. Please refer to [other more comprehensive lists](#related-awesome-paper-lists) about networks using attention or MLP-style designs.
+A list of **modern** (convolutional) network architectures for vision. Note that we only list the works based on convolution, modulation or other variants that emerge most recently. Please refer to [other more comprehensive lists](#related-awesome-paper-lists) about networks using attention or MLP-style designs.
 
 **Please feel free to submit a pull request or raise an issue if you find any missed papers.** 
  
