@@ -81,7 +81,7 @@ Release date: <b>22 Mar 2022</b>.
 <br>
 Release date: <b>7 July 2022</b>.
 <br> 
-<a href='https://arxiv.org/abs/2207.14284'>[paper]</a> <a href='https://github.com/VITA-Group/SLaK'>[code]</a>
+<a href='https://arxiv.org/abs/2207.03620'>[paper]</a> <a href='https://github.com/VITA-Group/SLaK'>[code]</a>
 </p>
 
 <p>
