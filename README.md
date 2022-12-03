@@ -1,8 +1,8 @@
-# Networks-Beyond-Attention
+# Networks-Beyond-Attention (NBA)
 
 A list of **modern** (convolutional) network architectures for vision. Note that we only list the works based on convolution, modulation or other variants that emerge most recently. Please refer to [other more comprehensive lists](#related-awesome-paper-lists) about networks using attention or MLP-style designs.
 
-**Please feel free to submit a pull request or raise an issue if you find any missed papers.** 
+**Since it is a new trend, so feel free to submit a pull request or raise an issue if you find any missed papers!** 
  
 ## Overview
 
@@ -102,6 +102,16 @@ Release date: <b>28 July 2022</b>.
 Release date: <b>7 Nov 2022</b>.
 <br>
 <a href='https://arxiv.org/abs/2211.03295'>[paper]</a> <a href=''>[code]</a>
+</p>
+
+<p>
+<font size=3><b>InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions. arXiv 2022.</b></font>
+<br>
+<font size=2>Wenhai Wang, Jifeng Dai, Zhe Chen, Zhenhang Huang, Zhiqi Li, Xizhou Zhu, Xiaowei Hu, Tong Lu, Lewei Lu, Hongsheng Li, Xiaogang Wang, Yu Qiao.</font>
+<br>
+Release date: <b>10 Nov 2022</b>.
+<br>
+<a href='https://arxiv.org/abs/2211.05778v2'>[paper]</a> <a href='https://github.com/OpenGVLab/InternImage'>[code]</a>
 </p>
 
 <p>
