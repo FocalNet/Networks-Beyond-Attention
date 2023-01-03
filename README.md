@@ -114,7 +114,6 @@ Release date: <b>10 Nov 2022</b>.
 <a href='https://arxiv.org/abs/2211.05778v2'>[paper]</a> <a href='https://github.com/OpenGVLab/InternImage'>[code]</a>
 </p>
 
-
 <p>
 <font size=3><b>Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition. arXiv 2022.</b></font>
 <br>
@@ -123,6 +122,16 @@ Release date: <b>10 Nov 2022</b>.
 Release date: <b>22 Nov 2022</b>.
 <br>
 <a href='https://arxiv.org/abs/2211.11943'>[paper]</a> <a href='https://github.com/HVision-NKU/Conv2Former'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>A Close Look at Spatial Modeling: From Attention to Convolution. arXiv 2022.</b></font>
+<br>
+<font size=2>Xu Ma, Huan Wang, Can Qin, Kunpeng Li, Xingchen Zhao, Jie Fu, Yun Fu.</font>
+<br>
+Release date: <b>23 Dec 2022</b>.
+<br>
+<a href='https://arxiv.org/abs/2212.12552'>[paper]</a> <a href='https://github.com/ma-xu/FCViT'>[code]</a>
 </p>
 
 ### Image Segmentation
