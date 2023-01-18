@@ -146,17 +146,7 @@ Release date: <b>18 Sep 2022</b>.
 <a href='https://arxiv.org/abs/2209.08575v1'>[paper]</a> <a href='https://github.com/Visual-Attention-Network/SegNeXt'>[code]</a>
 </p>
 
-### Others
-
-<p>
-<font size=3><b>LKD-Net: Large Kernel Convolution Network for Single Image Dehazing. arXiv 2022.</b></font>
-<br>
-<font size=2>Pinjun Luo, Guoqiang Xiao, Xinbo Gao, Song Wu.</font>
-<br>
-Release date: <b>5 Sep 2022</b>.
-<br> 
-<a href='https://arxiv.org/abs/2209.01788'>[paper]</a> <a href='https://github.com/SWU-CS-MediaLab/LKD-Net'>[code]</a>
-</p>
+### 3D Understanding
 
 <p>
 <font size=3><b>Scaling up Kernels in 3D CNNs. arXiv 2022.</b></font>
@@ -168,6 +158,27 @@ Release date: <b>21 June 2022</b>.
 <a href='https://arxiv.org/abs/2206.10555'>[paper]</a> <a href='https://github.com/dvlab-research/LargeKernel3D'>[code]</a>
 </p>
 
+<p>
+<font size=3><b>Long Range Pooling for 3D Large-Scale Scene Understanding. arXiv 2023.</b></font>
+<br>
+<font size=2>Xiang-Li Li, Meng-Hao Guo, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu</font>
+<br>
+Release date: <b>21 Jan 2023</b>.
+<br> 
+<a href='https://arxiv.org/abs/2301.06962'>[paper]</a> <a href='https://arxiv.org/abs/2301.06962'>[code]</a>
+</p>
+
+### Others
+
+<p>
+<font size=3><b>LKD-Net: Large Kernel Convolution Network for Single Image Dehazing. arXiv 2022.</b></font>
+<br>
+<font size=2>Pinjun Luo, Guoqiang Xiao, Xinbo Gao, Song Wu.</font>
+<br>
+Release date: <b>5 Sep 2022</b>.
+<br> 
+<a href='https://arxiv.org/abs/2209.01788'>[paper]</a> <a href='https://github.com/SWU-CS-MediaLab/LKD-Net'>[code]</a>
+</p>
 
 ## Related Awesome Paper Lists
 
