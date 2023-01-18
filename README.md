@@ -8,6 +8,7 @@ A list of **modern** (convolutional) network architectures for vision. Note that
 
 - [Image Classification](#image-classification)
 - [Image Segmentation](#image-segmentation)
+- [3D Understanding](#3d-understanding)
 - [Others](#others)
 
 ## Papers
