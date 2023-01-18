@@ -135,6 +135,16 @@ Release date: <b>23 Dec 2022</b>.
 <a href='https://arxiv.org/abs/2212.12552'>[paper]</a> <a href='https://github.com/ma-xu/FCViT'>[code]</a>
 </p>
 
+<p>
+<font size=3><b>ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders. arXiv 2023.</b></font>
+<br>
+<font size=2>Sanghyun Woo, Shoubhik Debnath, Ronghang Hu, Xinlei Chen, Zhuang Liu, In So Kweon, Saining Xie.</font>
+<br>
+Release date: <b>2 Jan 2023</b>.
+<br>
+<a href='https://arxiv.org/abs/2301.00808'>[paper]</a> <a href='https://github.com/facebookresearch/ConvNeXt-V2'>[code]</a>
+</p>
+
 ### Image Segmentation
 
 <p>
@@ -164,7 +174,7 @@ Release date: <b>21 June 2022</b>.
 <br>
 <font size=2>Xiang-Li Li, Meng-Hao Guo, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu</font>
 <br>
-Release date: <b>21 Jan 2023</b>.
+Release date: <b>17 Jan 2023</b>.
 <br> 
 <a href='https://arxiv.org/abs/2301.06962'>[paper]</a> <a href='https://arxiv.org/abs/2301.06962'>[code]</a>
 </p>
